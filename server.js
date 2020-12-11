@@ -30,8 +30,8 @@ const { get } = require("snekfetch");
 const guild = require("guild");
 const dateFormat = require("dateformat");
 const pretty = require("pretty-ms");
-client.login("token"); ////////////////mrfix
-const prefix = "prefix";
+client.login("Nzg2NjU5NTIyMzk5NTY3OTcy.X9JnxQ.e9yQuq1KZZY4MtCmebnaUaUVdRQ"); ////////////////mrfix
+const prefix = "u!";
 var table = require("table").table;
 const Discord = require("discord.js");
 client.on("ready", () => {
